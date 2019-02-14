@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 To run the code, you should specify some parameters in the file **config.json**  as follows
 
-```json
+```
 {
 	"pathData": "../data/Brisbane_CityBike.json",
 	"features": ["longitude","latitude"], 
