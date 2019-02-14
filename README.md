@@ -14,7 +14,7 @@ python3 and pip can be installed using the following pip command
 sudo apt-get install python3
 sudo apt-get install python3-pip
 ```
-##Installing
+
 To install the dependencies of this project(numpy,pandas,matplotlib,scikit-learn) using pip you should run this command
 ```
 pip install -r requirements.txt
