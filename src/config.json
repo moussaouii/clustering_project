@@ -1,0 +1,6 @@
+{
+	"pathData": "../data/Brisbane_CityBike.json",
+	"features": ["longitude","latitude"], 
+	"nb_clusters":5, 
+	"random_state":100 
+}
